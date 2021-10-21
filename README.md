@@ -1,6 +1,6 @@
 # HilbertCurvers
-C++ Hilbert Curves
-mplemented Instruction list and hilber classes. Linked list implementation
+C++ Hilbert Curves - 
+implemented both Instruction_list and hilbert classes. Linked list based implementation implementation
 Output of seven layers:
 ![image](https://user-images.githubusercontent.com/64340009/138229705-10eeae39-0450-41cd-a91f-12c6deefe21f.png)
 
